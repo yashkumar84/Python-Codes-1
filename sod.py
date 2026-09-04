@@ -1,0 +1,10 @@
+num = 2345615345
+
+sum = 0
+
+while num != 0:
+    rem = num % 10
+    sum += rem
+    num //= 10
+
+print(sum)
