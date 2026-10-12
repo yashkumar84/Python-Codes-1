@@ -1,0 +1,45 @@
+Python Basics 
+Operators and Datatypes 
+Conditional Statements 
+Loops - for , while
+
+range()
+break , continue , pass
+
+patterns - Nested Loops 
+
+
+Lists , Tuples  , Set , Dictionaries
+
+-------------------------------------------
+
+Strings 
+Functions
+Exception Handling
+File Handling 
+Modules and Packages - math , os  , datetime , 
+
+OOPS 
+
+
+------------------------------------------------------
+
+numpy
+Pandas 
+Matlotlib        --------- Analysis  
+Seaborn
+
+---------------------------------------------------------
+
+Sql + Python
+
+
+
+----------------------------------
+
+Excel 
+Power BI 
+AI Basics
+Some Other tool for data Analysis and Big Data 
+
+
